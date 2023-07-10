@@ -1,0 +1,13 @@
+.scene {
+  width: 100%;
+  height: 94.9vh;
+}
+
+.dark-scene {
+  background-color: #121212;
+}
+
+.light-scene {
+  background-color: #ffffff;
+}
+

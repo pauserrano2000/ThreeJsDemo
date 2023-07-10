@@ -1,0 +1,13 @@
+body {
+  font-family: "Inter", "Fira Sans", "Segoe UI", "Roboto", "Oxygen", "Lato",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+}
+
+.app {
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+}
